@@ -15,41 +15,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Bubble.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SpaMatrix.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="nhanSpaMatrix.cpp">
+    <ClCompile Include="gmres.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bubble.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="cong.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="SpaMatrix.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="nhanSpaMatrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="lib2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="arnoldi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="ConsoleApplication1.rc">
+    <ResourceCompile Include="gmres.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>

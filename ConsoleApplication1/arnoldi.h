@@ -5,7 +5,10 @@
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>       /* time */
 #include <algorithm>    // std::sort
-using namespace std;
+#include <iomanip>
 #include "SpaMatrix.h"
+#include "lib2.h"
+void arnoldi_iteration(SpaMatrix A, Vecto b) {
+	double eps = 1e-12;
 
-
+}
