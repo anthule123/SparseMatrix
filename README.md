@@ -1,2 +1,2 @@
 # SparseMatrix
-https://docs.google.com/document/d/10ZCgQxZRt0_XGvUt88DHnzBv3JX7g1e7UAHJcM-t08o/edit?usp=sharing
+Vì thấy code C++ ko có operator + cho vector, và vì lười nên mình chuyển sang code ma trận thưa ở python.
